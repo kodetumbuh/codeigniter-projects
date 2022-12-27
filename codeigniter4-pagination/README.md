@@ -13,12 +13,19 @@ masukan perintah command line di projek `composer require codeigniter4/framework
 membuat duplikat `env` dan rename menjadi `.env` serta ubah beberapa dan hapus # kode menjadi seperti ini
 
 `CI_ENVIRONMENT = development`
+
 `database.default.hostname = localhost`
+
 `database.default.database = ci4_pagination`
+
 `database.default.username = root`
+
 `database.default.password = `
+
 `database.default.DBDriver = MySQLi`
+
 `database.default.DBPrefix =`
+
 `database.default.port = 3306`
 
 membuat database baru dengan nama `ci4_pagination`
