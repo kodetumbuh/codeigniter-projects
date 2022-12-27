@@ -6,7 +6,7 @@
 
 ## Cara Menginstall
 
-(referensi)[https://codeigniter4.github.io/userguide/installation/installing_composer.html#adding-codeigniter4-to-an-existing-project]
+[referensi](https://codeigniter4.github.io/userguide/installation/installing_composer.html#adding-codeigniter4-to-an-existing-project)
 masukan perintah command line di projek `composer require codeigniter4/framework` dan `php spark serve` untuk menjalankan projek
 
 
